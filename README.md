@@ -72,4 +72,4 @@ This analysis highlights key drivers of revenue and customer behavior in an e-co
 <img width="550" height="459" alt="Monthly revenue trend line chart" src="https://github.com/user-attachments/assets/78049aaf-62d2-476d-ab59-3a15b3a69699" />
 
 ## 🔗 Project Files
-- Notebook: 
+- Notebook: e_commerce_analysis.ipynb
