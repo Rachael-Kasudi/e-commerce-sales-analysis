@@ -1,7 +1,7 @@
 # E-Commerce Sales Data Analysis
 
 ## Project Overview
-In this project, I performed an end-to-end analysis of an e-commerce sales dataset to uncover trends, evaluate business performance, and generate actionable insights which helps businesses improve revenue.
+In this project, I performed an end-to-end analysis of an e-commerce sales dataset to uncover trends, evaluate business performance, and generate actionable insights which helps businesses improve their revenue.
 
 This project simulates a real-world data analyst workflow — from raw data cleaning to delivering business recommendations.
 
@@ -83,6 +83,7 @@ This project demonstrates the ability to transform raw e-commerce data into mean
   
 ## Sample visualisations
 <img width="646" height="650" alt="Top 10 products bar chart" src="https://github.com/user-attachments/assets/6fd8ee5b-0ab9-49dc-b830-9505761c2b0a" />
+
 <img width="550" height="459" alt="Monthly revenue trend line chart" src="https://github.com/user-attachments/assets/78049aaf-62d2-476d-ab59-3a15b3a69699" />
 
 ## Author
