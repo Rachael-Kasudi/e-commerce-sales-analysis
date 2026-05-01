@@ -6,7 +6,7 @@ In this project, I performed an end-to-end analysis of an e-commerce sales datas
 This project simulates a real-world data analyst workflow — from raw data cleaning to delivering business recommendations.
 
 ## Business Value
-This project demonstrates how businesses can:
+It demonstrates how businesses can:
 - Identify high-performing products  
 - Understand customer behavior  
 - Optimize sales strategies  
@@ -85,5 +85,14 @@ This project demonstrates the ability to transform raw e-commerce data into mean
 <img width="646" height="650" alt="Top 10 products bar chart" src="https://github.com/user-attachments/assets/6fd8ee5b-0ab9-49dc-b830-9505761c2b0a" />
 <img width="550" height="459" alt="Monthly revenue trend line chart" src="https://github.com/user-attachments/assets/78049aaf-62d2-476d-ab59-3a15b3a69699" />
 
-## 🔗 Project Files
-- Notebook: 'https://github.com/Rachael-Kasudi/e-commerce-sales-analysis/blob/d140a7b09645762e598c70d2bd8b00ccc526e8dc/e_commerce_analysis.ipynb'
+## Author
+Rachael Kasudi  
+Aspiring Data Analyst | Python | SQL | Business Insights  
+
+GitHub: https://github.com/Rachael-Kasudi/e-commerce-sales-analysis
+
+## Let's Work Together
+I am available for freelance data analysis projects.  
+I can help analyze your business data and provide actionable insights.
+
+Feel free to reach out!
