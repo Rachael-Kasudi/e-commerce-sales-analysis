@@ -73,18 +73,14 @@ The dataset contains transactional data from an online retail store, including:
 -Data Visualization
 -Business Insight Generation
 -Analytical Thinking
-
-## Conclusion
-This project demonstrates the ability to transform raw e-commerce data into meaningful insights that can guide strategic decision-making and improve business performance.
-
-## Limitations
-- Some transactions (returns) were removed for simplicity  
-- Dataset lacks detailed customer demographic information
   
 ## Sample visualisations
 <img width="646" height="650" alt="Top 10 products bar chart" src="https://github.com/user-attachments/assets/6fd8ee5b-0ab9-49dc-b830-9505761c2b0a" />
 
 <img width="550" height="459" alt="Monthly revenue trend line chart" src="https://github.com/user-attachments/assets/78049aaf-62d2-476d-ab59-3a15b3a69699" />
+
+## Conclusion
+This project demonstrates the ability to transform raw e-commerce data into meaningful insights that can guide strategic decision-making and improve business performance.
 
 ## Author
 Rachael Kasudi  
