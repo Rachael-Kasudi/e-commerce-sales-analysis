@@ -1,17 +1,16 @@
 # E-Commerce Sales Data Analysis
 
 ## Project Overview
-In this project, I performed an end-to-end analysis of an e-commerce sales dataset to uncover trends, evaluate business performance, and generate actionable insights.
+In this project, I performed an end-to-end analysis of an e-commerce sales dataset to uncover trends, evaluate business performance, and generate actionable insights which helps businesses improve revenue.
+
 This project simulates a real-world data analyst workflow — from raw data cleaning to delivering business recommendations.
 
-## Business Problem
-E-commerce businesses generate large volumes of transactional data but often struggle to translate this data into actionable insights.
-
-This project answers key business questions such as:
--What drives revenue growth?
--Which products perform best?
--When do customers buy the most?
--Where are there opportunities to improve sales?  
+## Business Value
+This project demonstrates how businesses can:
+- Identify high-performing products  
+- Understand customer behavior  
+- Optimize sales strategies  
+- Improve revenue through data-driven decisions
 
 ## Dataset Description
 The dataset contains transactional data from an online retail store, including:
