@@ -52,8 +52,8 @@ The dataset contains transactional data from an online retail store, including:
 - Examined monthly, daily, and hourly sales patterns
   
 ## Key Results From Analysis
-- Total revenue analyzed: £8887208.894  
-- Number of customers: X  
+- Total revenue analyzed:$8887208.894  
+- Number of unique customers: 4338 customers
 - Top product generated X% of revenue
 
 ##  Key Insights
