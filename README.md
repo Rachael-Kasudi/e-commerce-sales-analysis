@@ -50,7 +50,12 @@ The dataset contains transactional data from an online retail store, including:
 - Analyzed spending patterns and identified high-value customers  
 
 ### Time Trends
-- Examined monthly, daily, and hourly sales patterns  
+- Examined monthly, daily, and hourly sales patterns
+  
+## Key Results From Analysis
+- Total revenue analyzed: £8887208.894  
+- Number of customers: X  
+- Top product generated X% of revenue
 
 ##  Key Insights
 - Revenue is highly concentrated among a small percentage of products  
