@@ -1,13 +1,17 @@
 # E-Commerce Sales Data Analysis
 
 ## Project Overview
-This project analyzes an e-commerce dataset to uncover key insights into sales performance, customer behavior, and product trends. The goal is to provide actionable recommendations that can help improve revenue and decision-making.
+In this project, I performed an end-to-end analysis of an e-commerce sales dataset to uncover trends, evaluate business performance, and generate actionable insights.
+This project simulates a real-world data analyst workflow — from raw data cleaning to delivering business recommendations.
 
-## Objectives
-- Identify top-performing products  
-- Analyze customer spending patterns  
-- Understand sales trends over time  
-- Provide data-driven business recommendations  
+## Business Problem
+E-commerce businesses generate large volumes of transactional data but often struggle to translate this data into actionable insights.
+
+This project answers key business questions such as:
+-What drives revenue growth?
+-Which products perform best?
+-When do customers buy the most?
+-Where are there opportunities to improve sales?  
 
 ## Dataset Description
 The dataset contains transactional data from an online retail store, including:
@@ -21,13 +25,12 @@ The dataset contains transactional data from an online retail store, including:
 - Country: Customer location  
 
 ## Tools & Technologies
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib    
-- Google colab 
-
-## Data Cleaning
+- Python(Pandas, numpy)  
+- Data visualisation(Matplotlib)    
+- Google colab
+- 
+# Methodology
+## 1.Data Cleaning
 - Removed duplicate records  
 - Dropped rows with missing CustomerID values  
 - Filtered out returns (negative quantities)  
@@ -35,7 +38,7 @@ The dataset contains transactional data from an online retail store, including:
 - Created a Revenue column (Quantity × UnitPrice)  
 - Extracted time-based features (Month, Day, Hour)  
 
-## Exploratory Data Analysis
+## 2.Exploratory Data Analysis
 
 ### Business Overview
 - Calculated total revenue, average order value, number of customers, and transactions  
@@ -60,8 +63,15 @@ The dataset contains transactional data from an online retail store, including:
 - Run targeted promotions during low-sales periods  
 - Align marketing campaigns with peak shopping hours  
 
+## Key Skills Demonstrated
+-Data Cleaning & Preprocessing
+-Exploratory Data Analysis (EDA)
+-Data Visualization
+-Business Insight Generation
+-Analytical Thinking
+
 ## Conclusion
-This analysis highlights key drivers of revenue and customer behavior in an e-commerce business. By focusing on high-performing products, retaining valuable customers, and leveraging seasonal trends, the business can improve overall performance and profitability.
+This project demonstrates the ability to transform raw e-commerce data into meaningful insights that can guide strategic decision-making and improve business performance.
 
 ## Limitations
 - Some transactions (returns) were removed for simplicity  
