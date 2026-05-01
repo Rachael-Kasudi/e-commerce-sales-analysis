@@ -26,9 +26,9 @@ The dataset contains transactional data from an online retail store, including:
 
 ## Tools & Technologies
 - Python(Pandas, numpy)  
-- Data visualisation(Matplotlib)    
+- Data visualisation(Matplotlib, seaborn)  
 - Google colab
-- 
+
 # Methodology
 ## 1.Data Cleaning
 - Removed duplicate records  
