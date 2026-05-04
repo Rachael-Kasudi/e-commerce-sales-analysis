@@ -52,13 +52,14 @@ The dataset contains transactional data from an online retail store, including:
 - Examined monthly, daily, and hourly sales patterns
   
 ## Key Results From Analysis
-- Total revenue analyzed:$8887208.894  
+- Total revenue analyzed:$8,887,208.894  
 - Number of unique customers: 4338 customers
-- Top product generated X% of revenue
+- Top product generated 1.90% of the revenue.
 
 ##  Key Insights
 - Revenue is highly concentrated among a small percentage of products  
-- A small group of customers contributes most of the total revenue  
+- A small group of customers contributes most of the total revenue
+- Revenue is quite spread out rather than dominated by a single product. 
 - Sales show clear seasonal trends across different months  
 
 ##  Recommendations
